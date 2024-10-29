@@ -13,7 +13,7 @@
 ## <picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hhNzkwdTUycnV1N2d1ZjBqajdkYXpwdGx5N3M2aTQwanl5dDZkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.webp" alt="@keyweemotion in giphy.com" width = 50px></picture> About me
   <picture><img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiMzBsMnRzMzJxN3M0bm92aXh2cmM2NmE1NHZsdXowdXphbnR5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="250px"></picture>
   <p>
-    ▪️ Currently, I am studying web development and Android application development.
+    ▪️ Currently, I am studying web and Android application development.
       <br><br>
     ▪️ I really like logic and mathematics.
       <br><br>
