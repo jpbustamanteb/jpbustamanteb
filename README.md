@@ -6,7 +6,7 @@
   <br><br>
 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B1F&center=true&vCenter=true&width=435&lines=Multimedia+engineering+student" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B1F&center=true&vCenter=true&width=435&lines=Multimedia+engineering+student" alt="Typing SVG" />
   </p>
 
 
@@ -52,7 +52,6 @@
   </span>
 
 ## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdkY3dsYXg5bG9jMWE5MWV5bXM1NDIxZjN6eXV3cndwdG5scGMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.webp" alt="@github in giphy.com" width = 50px></picture>Github stats
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReetroRevive&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-  <br>
   
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=retrorevive&theme=holi&show_icons=true">	
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retrorevive&theme=holi-theme">
