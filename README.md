@@ -53,6 +53,6 @@
 
 ## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdkY3dsYXg5bG9jMWE5MWV5bXM1NDIxZjN6eXV3cndwdG5scGMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.webp" alt="@github in giphy.com" width = 50px></picture>Github stats
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=retrorevive&theme=holi&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=retrorevive&theme=dark&show_icons=true">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=retrorevive&theme=holi-theme">
   </p>
