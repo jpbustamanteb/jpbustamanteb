@@ -18,8 +18,6 @@
     ▪️ I really like logic and mathematics.
       <br><br>
     ▪️ Always interested in learning new things.
-      <br><br>
-    ▪️ "If others can, why can't I?"
   </p>
 
   ## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhubTNuaDZkcjNidjAzNG11enUzMXd2M2d6NjFpYXlnajBmcmtoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pi1X3ejDl9S3epzwEk/giphy.webp" alt="@keyweemotion in giphy.com" width = 50px></picture>Devtools
