@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mí
 
 <p align="left">
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiMzBsMnRzMzJxN3M0bm92aXh2cmM2NmE1NHZsdXowdXphbnR5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="200px" />
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiMzBsMnRzMzJxN3M0bm92aXh2cmM2NmE1NHZsdXowdXphbnR5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="150px"/>
 
 - 🎓 Estudiante de Ingeniería Multimedia  
 - 🧠 Enfocado en aprender desarrollo frontend y análisis de datos  
