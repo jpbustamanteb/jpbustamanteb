@@ -1,23 +1,23 @@
 <h1 align="center">
-  👋 Hola, soy <span style="color:#0089ba;">Juan Pablo Bustamante Bermúdez</span>
+  Hola, soy <span style="color:#0089ba;">Juan Pablo Bustamante Bermúdez</span>
 </h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F7D849&center=true&random=true&width=435&lines=Ingeniero+Multimedia" alt="Typing SVG" /></a>
 </p>
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 <p align="left">
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiMzBsMnRzMzJxN3M0bm92aXh2cmM2NmE1NHZsdXowdXphbnR5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="150px"/>
 
-- 🎓 Estudiante de Ingeniería Multimedia  
-- 🧠 Enfocado en aprender desarrollo frontend y análisis de datos  
-- 🎮 Me gustan los videojuegos y la cultura japonesa
-- 🚀 Buscando siempre mejorar mis habilidades técnicas y blandas  
+- Estudiante de Ingeniería Multimedia  
+- Enfocado en aprender desarrollo frontend y análisis de datos  
+- Me gustan los videojuegos y la cultura japonesa
+- Buscando siempre mejorar mis habilidades técnicas y blandas  
 </p>
 
-## 🛠️ DevTools
+## 🛠DevTools
 
 ### Lenguajes
 <p>
@@ -45,7 +45,7 @@
 
 <hr>
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpbustamanteb&theme=dark&show_icons=true" alt="GitHub Stats" />
   <br>
